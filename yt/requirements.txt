@@ -1,0 +1,2 @@
+flet==0.22.*
+mysql.connector==2.2.*
